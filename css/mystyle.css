@@ -1,0 +1,32 @@
+body {
+  background-color: whitesmoke;
+}
+
+h1 {
+  color: blue;
+  margin-left: 60px;
+  font-size: 100px;
+}
+#para1 {
+    text-align: center;
+    color: red;
+  }
+.center {
+    text-align: center;
+    color: yellow;
+  }
+h3, h4, h5 {
+    text-align: center;
+    color: violet;
+  }
+  th, td {
+    padding: 20px;
+    text-align: left;
+    border-bottom: 3px solid rgb(19, 18, 18);
+  }
+tr:hover {background-color: saddlebrown;}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+ 
